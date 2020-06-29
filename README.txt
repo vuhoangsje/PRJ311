@@ -6,4 +6,5 @@
 # Note: localhost can be difference
 # Choose TCP/IP
 # Switch to IP addresses tab, scroll to the end, at the IPALL expand 
-# Type 1433 at TCP port 
+# Type 1433 at TCP port
+# See more detail at JavaDesktopWorkshop link
