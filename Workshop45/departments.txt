@@ -1,0 +1,6 @@
+HR-Human Resource:
+E223, Ha Hoang Lam,565
+E878, Luu Van Quang,565
+TD-Technical Department:
+E898, Huynh Van Tam,565
+E987, Nguyen Ha Nam,567
